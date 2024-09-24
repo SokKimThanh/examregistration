@@ -1,0 +1,11 @@
+C:\Tuan\Cá nhân\Project\ASP\ExamRegistration\ExamRegistrationDA\bin\Debug\net6.0\ExamRegistrationDA.deps.json
+C:\Tuan\Cá nhân\Project\ASP\ExamRegistration\ExamRegistrationDA\bin\Debug\net6.0\ExamRegistrationDA.dll
+C:\Tuan\Cá nhân\Project\ASP\ExamRegistration\ExamRegistrationDA\bin\Debug\net6.0\ExamRegistrationDA.pdb
+C:\Tuan\Cá nhân\Project\ASP\ExamRegistration\ExamRegistrationDA\obj\Debug\net6.0\ExamRegistrationDA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tuan\Cá nhân\Project\ASP\ExamRegistration\ExamRegistrationDA\obj\Debug\net6.0\ExamRegistrationDA.AssemblyInfoInputs.cache
+C:\Tuan\Cá nhân\Project\ASP\ExamRegistration\ExamRegistrationDA\obj\Debug\net6.0\ExamRegistrationDA.AssemblyInfo.cs
+C:\Tuan\Cá nhân\Project\ASP\ExamRegistration\ExamRegistrationDA\obj\Debug\net6.0\ExamRegistrationDA.csproj.CoreCompileInputs.cache
+C:\Tuan\Cá nhân\Project\ASP\ExamRegistration\ExamRegistrationDA\obj\Debug\net6.0\ExamRegistrationDA.dll
+C:\Tuan\Cá nhân\Project\ASP\ExamRegistration\ExamRegistrationDA\obj\Debug\net6.0\refint\ExamRegistrationDA.dll
+C:\Tuan\Cá nhân\Project\ASP\ExamRegistration\ExamRegistrationDA\obj\Debug\net6.0\ExamRegistrationDA.pdb
+C:\Tuan\Cá nhân\Project\ASP\ExamRegistration\ExamRegistrationDA\obj\Debug\net6.0\ref\ExamRegistrationDA.dll

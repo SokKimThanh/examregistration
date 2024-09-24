@@ -1,0 +1,15 @@
+﻿@using ExamRegistrationDA.Utility
+@{
+    // Lấy đường dẫn hiện tại (path)
+    string strCurrentPath = ViewContext.HttpContext.Request.Path;
+
+    //Lấy danh sách các view trống
+    List<string> arrPathBlanks = CConfig.ViewBlanks();
+
+    //Nếu trang rỗng thì bật layout trống
+    if (arrPathBlanks.FirstOrDefault(it => it == strCurrentPath) != null)
+        Layout = "_Layout_Blank";
+    else
+        Layout = "_Layout";
+
+}
