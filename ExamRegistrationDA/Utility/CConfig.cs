@@ -16,5 +16,8 @@ namespace ExamRegistrationDA.Utility
                 "/Register",
             }.Select(it => it + "/RouteToPathDefautlView").ToList();
         }
+
+        public static string SessionERUserName = "ERUserName";
+
     }
 }

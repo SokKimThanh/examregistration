@@ -3,40 +3,43 @@ using Newtonsoft.Json;
 
 namespace ExamRegistration.Tools
 {
-    public class CSession
-    {
-        public static void SetSession(ISession session, string strKey, object? objValue)
-        {
-            if (strKey == null)
-            {
-                throw new ArgumentNullException(nameof(strKey), "The value cannot be null.");
-            }
-            // Chuyển giá trị thành chuỗi JSON
-            string strJsonString = JsonConvert.SerializeObject(objValue);
+	public class CSession
+	{
+		public static void SetSession(ISession session, string strKey, object? objValue)
+		{
+			if (strKey == null)
+			{
+				throw new ArgumentNullException(nameof(strKey), "The value cannot be null.");
+			}
+			// Chuyển giá trị thành chuỗi JSON
+			string strJsonString = JsonConvert.SerializeObject(objValue);
 
-            session.SetString(strKey, strJsonString);
-        }
+			session.SetString(strKey, strJsonString);
+		}
 
-        public static string? GetSession(ISession session, string strKey)
-        {
-            if (strKey == null)
-            {
-                throw new ArgumentNullException(nameof(strKey), "The value cannot be null.");
-            }
+		public static string GetSession(ISession session, string strKey)
+		{
+			if (strKey == null)
+			{
+				throw new ArgumentNullException(nameof(strKey), "The value cannot be null.");
+			}
 
-            // Lấy chuỗi JSON từ session
-            string strJsonString = session.GetString(strKey);
+			// Lấy chuỗi JSON từ session
+			string? strJsonString = session.GetString(strKey);
+			if (strJsonString == null || strJsonString == "")
+				return "";
 
-            return strJsonString;
-        }
 
-        public static void DeleteSession(ISession session, string strKey)
-        {
-            if (strKey == null)
-            {
-                throw new ArgumentNullException(nameof(strKey), "The value cannot be null.");
-            }
-            session.Remove(strKey);
-        }
-    }
+			return strJsonString;
+		}
+
+		public static void DeleteSession(ISession session, string strKey)
+		{
+			if (strKey == null)
+			{
+				throw new ArgumentNullException(nameof(strKey), "The value cannot be null.");
+			}
+			session.Remove(strKey);
+		}
+	}
 }

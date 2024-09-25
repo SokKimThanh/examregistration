@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\TuanT\\source\\repos\\examregistration\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B36F7F9-F599-4DDF-A1D8-19A82BDCC656}|ExamRegistration\\ExamRegistration.csproj|c:\\users\\tuant\\source\\repos\\examregistration\\examregistration\\controllers\\examregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B36F7F9-F599-4DDF-A1D8-19A82BDCC656}|ExamRegistration\\ExamRegistration.csproj|solutionrelative:examregistration\\controllers\\examregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B36F7F9-F599-4DDF-A1D8-19A82BDCC656}|ExamRegistration\\ExamRegistration.csproj|c:\\users\\tuant\\source\\repos\\examregistration\\examregistration\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B36F7F9-F599-4DDF-A1D8-19A82BDCC656}|ExamRegistration\\ExamRegistration.csproj|solutionrelative:examregistration\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0B36F7F9-F599-4DDF-A1D8-19A82BDCC656}|ExamRegistration\\ExamRegistration.csproj|c:\\users\\tuant\\source\\repos\\examregistration\\examregistration\\tools\\ccommonfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B36F7F9-F599-4DDF-A1D8-19A82BDCC656}|ExamRegistration\\ExamRegistration.csproj|solutionrelative:examregistration\\tools\\ccommonfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0B36F7F9-F599-4DDF-A1D8-19A82BDCC656}|ExamRegistration\\ExamRegistration.csproj|c:\\users\\tuant\\source\\repos\\examregistration\\examregistration\\controllers\\examregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B36F7F9-F599-4DDF-A1D8-19A82BDCC656}|ExamRegistration\\ExamRegistration.csproj|solutionrelative:examregistration\\controllers\\examregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B36F7F9-F599-4DDF-A1D8-19A82BDCC656}|ExamRegistration\\ExamRegistration.csproj|c:\\users\\tuant\\source\\repos\\examregistration\\examregistration\\models\\common\\crespone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B36F7F9-F599-4DDF-A1D8-19A82BDCC656}|ExamRegistration\\ExamRegistration.csproj|solutionrelative:examregistration\\models\\common\\crespone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B36F7F9-F599-4DDF-A1D8-19A82BDCC656}|ExamRegistration\\ExamRegistration.csproj|c:\\users\\tuant\\source\\repos\\examregistration\\examregistration\\tools\\csession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B36F7F9-F599-4DDF-A1D8-19A82BDCC656}|ExamRegistration\\ExamRegistration.csproj|solutionrelative:examregistration\\tools\\csession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0B36F7F9-F599-4DDF-A1D8-19A82BDCC656}|ExamRegistration\\ExamRegistration.csproj|c:\\users\\tuant\\source\\repos\\examregistration\\examregistration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B36F7F9-F599-4DDF-A1D8-19A82BDCC656}|ExamRegistration\\ExamRegistration.csproj|solutionrelative:examregistration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B36F7F9-F599-4DDF-A1D8-19A82BDCC656}|ExamRegistration\\ExamRegistration.csproj|c:\\users\\tuant\\source\\repos\\examregistration\\examregistration\\views\\register\\registerview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0B36F7F9-F599-4DDF-A1D8-19A82BDCC656}|ExamRegistration\\ExamRegistration.csproj|solutionrelative:examregistration\\views\\register\\registerview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0B36F7F9-F599-4DDF-A1D8-19A82BDCC656}|ExamRegistration\\ExamRegistration.csproj|c:\\users\\tuant\\source\\repos\\examregistration\\examregistration\\views\\dashboard\\dashboardview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B36F7F9-F599-4DDF-A1D8-19A82BDCC656}|ExamRegistration\\ExamRegistration.csproj|solutionrelative:examregistration\\views\\dashboard\\dashboardview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B36F7F9-F599-4DDF-A1D8-19A82BDCC656}|ExamRegistration\\ExamRegistration.csproj|c:\\users\\tuant\\source\\repos\\examregistration\\examregistration\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B36F7F9-F599-4DDF-A1D8-19A82BDCC656}|ExamRegistration\\ExamRegistration.csproj|solutionrelative:examregistration\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{683B0FC8-4250-483B-9559-38D327D4C113}|ExamRegistrationDA\\ExamRegistrationDA.csproj|c:\\users\\tuant\\source\\repos\\examregistration\\examregistrationda\\utility\\cconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,18 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0B36F7F9-F599-4DDF-A1D8-19A82BDCC656}|ExamRegistration\\ExamRegistration.csproj|c:\\users\\tuant\\source\\repos\\examregistration\\examregistration\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B36F7F9-F599-4DDF-A1D8-19A82BDCC656}|ExamRegistration\\ExamRegistration.csproj|solutionrelative:examregistration\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B36F7F9-F599-4DDF-A1D8-19A82BDCC656}|ExamRegistration\\ExamRegistration.csproj|c:\\users\\tuant\\source\\repos\\examregistration\\examregistration\\views\\login\\loginview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0B36F7F9-F599-4DDF-A1D8-19A82BDCC656}|ExamRegistration\\ExamRegistration.csproj|solutionrelative:examregistration\\views\\login\\loginview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B36F7F9-F599-4DDF-A1D8-19A82BDCC656}|ExamRegistration\\ExamRegistration.csproj|c:\\users\\tuant\\source\\repos\\examregistration\\examregistration\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B36F7F9-F599-4DDF-A1D8-19A82BDCC656}|ExamRegistration\\ExamRegistration.csproj|solutionrelative:examregistration\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{960D7A37-1793-4AE7-8B32-CE1090DA1AAA}|Solution Items{960D7A37-1793-4AE7-8B32-CE1090DA1AAA}|C:\\Users\\TuanT\\source\\repos\\examregistration\\.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}",
-      "RelativeMoniker": "D:0:0:{960D7A37-1793-4AE7-8B32-CE1090DA1AAA}|Solution Items{960D7A37-1793-4AE7-8B32-CE1090DA1AAA}|solutionrelative:.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,44 +82,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RegisterView.cshtml",
-              "DocumentMoniker": "C:\\Users\\TuanT\\source\\repos\\examregistration\\ExamRegistration\\Views\\Register\\RegisterView.cshtml",
-              "RelativeDocumentMoniker": "ExamRegistration\\Views\\Register\\RegisterView.cshtml",
-              "ToolTip": "C:\\Users\\TuanT\\source\\repos\\examregistration\\ExamRegistration\\Views\\Register\\RegisterView.cshtml",
-              "RelativeToolTip": "ExamRegistration\\Views\\Register\\RegisterView.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAwD8AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-24T04:03:36.32Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "LoginView.cshtml",
-              "DocumentMoniker": "C:\\Users\\TuanT\\source\\repos\\examregistration\\ExamRegistration\\Views\\Login\\LoginView.cshtml",
-              "RelativeDocumentMoniker": "ExamRegistration\\Views\\Login\\LoginView.cshtml",
-              "ToolTip": "C:\\Users\\TuanT\\source\\repos\\examregistration\\ExamRegistration\\Views\\Login\\LoginView.cshtml",
-              "RelativeToolTip": "ExamRegistration\\Views\\Login\\LoginView.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-24T03:57:24.556Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\TuanT\\source\\repos\\examregistration\\ExamRegistration\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ExamRegistration\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\TuanT\\source\\repos\\examregistration\\ExamRegistration\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ExamRegistration\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T00:59:00.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CRespone.cs",
+              "DocumentMoniker": "C:\\Users\\TuanT\\source\\repos\\examregistration\\ExamRegistration\\Models\\Common\\CRespone.cs",
+              "RelativeDocumentMoniker": "ExamRegistration\\Models\\Common\\CRespone.cs",
+              "ToolTip": "C:\\Users\\TuanT\\source\\repos\\examregistration\\ExamRegistration\\Models\\Common\\CRespone.cs",
+              "RelativeToolTip": "ExamRegistration\\Models\\Common\\CRespone.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T00:56:47.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CCommonFunction.cs",
+              "DocumentMoniker": "C:\\Users\\TuanT\\source\\repos\\examregistration\\ExamRegistration\\Tools\\CCommonFunction.cs",
+              "RelativeDocumentMoniker": "ExamRegistration\\Tools\\CCommonFunction.cs",
+              "ToolTip": "C:\\Users\\TuanT\\source\\repos\\examregistration\\ExamRegistration\\Tools\\CCommonFunction.cs",
+              "RelativeToolTip": "ExamRegistration\\Tools\\CCommonFunction.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T00:52:17.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CSession.cs",
+              "DocumentMoniker": "C:\\Users\\TuanT\\source\\repos\\examregistration\\ExamRegistration\\Tools\\CSession.cs",
+              "RelativeDocumentMoniker": "ExamRegistration\\Tools\\CSession.cs",
+              "ToolTip": "C:\\Users\\TuanT\\source\\repos\\examregistration\\ExamRegistration\\Tools\\CSession.cs",
+              "RelativeToolTip": "ExamRegistration\\Tools\\CSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T00:50:44.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DashboardView.cshtml",
+              "DocumentMoniker": "C:\\Users\\TuanT\\source\\repos\\examregistration\\ExamRegistration\\Views\\Dashboard\\DashboardView.cshtml",
+              "RelativeDocumentMoniker": "ExamRegistration\\Views\\Dashboard\\DashboardView.cshtml",
+              "ToolTip": "C:\\Users\\TuanT\\source\\repos\\examregistration\\ExamRegistration\\Views\\Dashboard\\DashboardView.cshtml",
+              "RelativeToolTip": "ExamRegistration\\Views\\Dashboard\\DashboardView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T00:33:00.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\TuanT\\source\\repos\\examregistration\\ExamRegistration\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ExamRegistration\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\TuanT\\source\\repos\\examregistration\\ExamRegistration\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ExamRegistration\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T00:32:32.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ExamRegistrationController.cs",
               "DocumentMoniker": "C:\\Users\\TuanT\\source\\repos\\examregistration\\ExamRegistration\\Controllers\\ExamRegistrationController.cs",
               "RelativeDocumentMoniker": "ExamRegistration\\Controllers\\ExamRegistrationController.cs",
               "ToolTip": "C:\\Users\\TuanT\\source\\repos\\examregistration\\ExamRegistration\\Controllers\\ExamRegistrationController.cs",
               "RelativeToolTip": "ExamRegistration\\Controllers\\ExamRegistrationController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAIAwwBYAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAewBwAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T03:55:35.896Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "CUtility.cs",
               "DocumentMoniker": "C:\\Users\\TuanT\\source\\repos\\examregistration\\ExamRegistrationDA\\Utility\\CUtility.cs",
               "RelativeDocumentMoniker": "ExamRegistrationDA\\Utility\\CUtility.cs",
@@ -127,66 +185,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "CConfig.cs",
               "DocumentMoniker": "C:\\Users\\TuanT\\source\\repos\\examregistration\\ExamRegistrationDA\\Utility\\CConfig.cs",
               "RelativeDocumentMoniker": "ExamRegistrationDA\\Utility\\CConfig.cs",
               "ToolTip": "C:\\Users\\TuanT\\source\\repos\\examregistration\\ExamRegistrationDA\\Utility\\CConfig.cs",
               "RelativeToolTip": "ExamRegistrationDA\\Utility\\CConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxMAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T04:12:09.618Z"
+              "WhenOpened": "2024-09-24T04:12:09.618Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\TuanT\\source\\repos\\examregistration\\ExamRegistration\\Program.cs",
               "RelativeDocumentMoniker": "ExamRegistration\\Program.cs",
               "ToolTip": "C:\\Users\\TuanT\\source\\repos\\examregistration\\ExamRegistration\\Program.cs",
               "RelativeToolTip": "ExamRegistration\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB4AAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T04:06:48.353Z"
+              "WhenOpened": "2024-09-24T04:06:48.353Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CCommonFunction.cs",
-              "DocumentMoniker": "C:\\Users\\TuanT\\source\\repos\\examregistration\\ExamRegistration\\Tools\\CCommonFunction.cs",
-              "RelativeDocumentMoniker": "ExamRegistration\\Tools\\CCommonFunction.cs",
-              "ToolTip": "C:\\Users\\TuanT\\source\\repos\\examregistration\\ExamRegistration\\Tools\\CCommonFunction.cs",
-              "RelativeToolTip": "ExamRegistration\\Tools\\CCommonFunction.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAIAwwBwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T05:03:28.159Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": ".editorconfig",
-              "DocumentMoniker": "C:\\Users\\TuanT\\source\\repos\\examregistration\\.editorconfig",
-              "RelativeDocumentMoniker": ".editorconfig",
-              "ToolTip": "C:\\Users\\TuanT\\source\\repos\\examregistration\\.editorconfig",
-              "RelativeToolTip": ".editorconfig",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-09-24T05:01:25.577Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\TuanT\\source\\repos\\examregistration\\ExamRegistration\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "ExamRegistration\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\TuanT\\source\\repos\\examregistration\\ExamRegistration\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "ExamRegistration\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T03:56:37.063Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "RegisterModel.cs",
               "DocumentMoniker": "C:\\Users\\TuanT\\source\\repos\\examregistration\\ExamRegistration\\Models\\RegisterModel.cs",
               "RelativeDocumentMoniker": "ExamRegistration\\Models\\RegisterModel.cs",
@@ -198,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "RegisterController.cs",
               "DocumentMoniker": "C:\\Users\\TuanT\\source\\repos\\examregistration\\ExamRegistration\\Controllers\\RegisterController.cs",
               "RelativeDocumentMoniker": "ExamRegistration\\Controllers\\RegisterController.cs",

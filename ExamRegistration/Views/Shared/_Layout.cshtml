@@ -28,12 +28,14 @@
 
     <!--Câu lệnh này tương tự như câu trên https://learn.microsoft.com/en-us/aspnet/core/mvc/views/partial?view=aspnetcore-8.0-->
     <!-- <partial name="Navbar" />-->
+
     <!-- Page Wrapper -->
     <div id="wrapper">
 
         <!-- Sidebar -->
         <partial name="Sidebar" />
         <!-- End of Sidebar -->
+
         <!-- Content Wrapper -->
         <div id="content-wrapper" class="d-flex flex-column">
 
@@ -43,6 +45,7 @@
                 <!-- Topbar -->
                 <partial name="Topbar" />
                 <!-- End of Topbar -->
+
                 <!--Content-->
                 @RenderBody();
                 <!--End Content-->
@@ -58,6 +61,7 @@
 
     </div>
     <!-- End of Page Wrapper -->
+
     <!-- Scroll to Top Button-->
     <a class="scroll-to-top rounded" href="#page-top">
         <i class="fas fa-angle-up"></i>

@@ -8,18 +8,20 @@ namespace ExamRegistration.Controllers
     public class ExamRegistrationController<T> : Controller
     {
         private string strEntity_Name = "";
+
         CCommonFunction objCommon = new();
+
         public ExamRegistrationController()
         {
             objCommon = new();
             strEntity_Name = typeof(T).Name.Replace("Model", "");
         }
 
-        /// <summary>
-        /// Func này luôn định tuyến về thư mục chứa view
-        /// </summary>
-        /// <returns></returns>
-        public IActionResult RouteToPathDefautlView()
+		/// <summary>
+		/// Func này luôn định tuyến về thư mục chứa view
+		/// </summary>
+		/// <returns></returns>
+		public IActionResult RouteToPathDefautlView()
         {
             CRespone objRespone = new();
             try

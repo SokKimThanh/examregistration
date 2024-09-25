@@ -9,3 +9,15 @@ C:\Tuan\Cá nhân\Project\ASP\ExamRegistration\ExamRegistrationDA\obj\Debug\net6
 C:\Tuan\Cá nhân\Project\ASP\ExamRegistration\ExamRegistrationDA\obj\Debug\net6.0\refint\ExamRegistrationDA.dll
 C:\Tuan\Cá nhân\Project\ASP\ExamRegistration\ExamRegistrationDA\obj\Debug\net6.0\ExamRegistrationDA.pdb
 C:\Tuan\Cá nhân\Project\ASP\ExamRegistration\ExamRegistrationDA\obj\Debug\net6.0\ref\ExamRegistrationDA.dll
+C:\Users\TuanT\source\repos\examregistration\ExamRegistrationDA\bin\Debug\net6.0\ExamRegistrationDA.deps.json
+C:\Users\TuanT\source\repos\examregistration\ExamRegistrationDA\bin\Debug\net6.0\ExamRegistrationDA.dll
+C:\Users\TuanT\source\repos\examregistration\ExamRegistrationDA\bin\Debug\net6.0\ExamRegistrationDA.pdb
+C:\Users\TuanT\source\repos\examregistration\ExamRegistrationDA\obj\Debug\net6.0\ExamRegistrationDA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TuanT\source\repos\examregistration\ExamRegistrationDA\obj\Debug\net6.0\ExamRegistrationDA.AssemblyInfoInputs.cache
+C:\Users\TuanT\source\repos\examregistration\ExamRegistrationDA\obj\Debug\net6.0\ExamRegistrationDA.AssemblyInfo.cs
+C:\Users\TuanT\source\repos\examregistration\ExamRegistrationDA\obj\Debug\net6.0\ExamRegistrationDA.csproj.CoreCompileInputs.cache
+C:\Users\TuanT\source\repos\examregistration\ExamRegistrationDA\obj\Debug\net6.0\ExamRegistrationDA.sourcelink.json
+C:\Users\TuanT\source\repos\examregistration\ExamRegistrationDA\obj\Debug\net6.0\ExamRegistrationDA.dll
+C:\Users\TuanT\source\repos\examregistration\ExamRegistrationDA\obj\Debug\net6.0\refint\ExamRegistrationDA.dll
+C:\Users\TuanT\source\repos\examregistration\ExamRegistrationDA\obj\Debug\net6.0\ExamRegistrationDA.pdb
+C:\Users\TuanT\source\repos\examregistration\ExamRegistrationDA\obj\Debug\net6.0\ref\ExamRegistrationDA.dll
